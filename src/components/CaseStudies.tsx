@@ -26,7 +26,7 @@ const caseStudies = [
 
 const CaseStudies = () => {
   return (
-    <section className="py-24 bg-background-secondary relative">
+    <section id="case-studies" className="py-24 bg-background-secondary relative">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-space-grotesk font-bold mb-6">
